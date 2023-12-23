@@ -1,0 +1,3 @@
+type  Query{
+    getComputerById(id: Float) : ComputerDto
+}
